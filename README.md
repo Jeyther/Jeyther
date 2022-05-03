@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://github.com/Jeyther/Coderhouse/blob/main/img/play/jeyther%20portada%20facebook%201.png" align="center" style="width: 100%;" />
+<img src="https://github.com/Jeyther/Jeyther/blob/main/play/jeyther%20portada%20facebook%201.png" align="center" style="width: 100%;" />
 </div>  
 
 ### <div align="center">Hello! I'm Jeyther, a Junior improving every day to be a Hight-Level Front-end developer 👨‍💻- "The Journey is just beggining" 🚀</div>  
