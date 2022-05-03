@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### <div align="center">Hello! I'm Jeyther, a Junior improving every day to be a Hight-Level Front-end developer 👨‍💻- "The Journey is just beggining" 🚀</div>  
   
 
-- 🥇 I have graduated as a front end developer at the [CoderHouse] Institute(https://www.coderhouse.com.pe/)  
+- 🥇 I have graduated as a Front-End developer at the [CoderHouse](https://www.coderhouse.com.pe/) Institute
   
 
 - 🌱 I’m currently learning React.JS  
