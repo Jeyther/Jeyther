@@ -2,7 +2,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHqCwVZwx68Kg/profile-displaybackgroundimage-shrink_350_1400/0/1663908345867?e=1672272000&v=beta&t=UZyaeyB1f9LdajU6nAJRjv2EEmbSWP8_H6Xpd7tRz2M" align="center" style="width: 100%;" />
 </div>  
 
-### <div align="center">Hello! I'm Jeyther, a Junior improving every day to be a Hight-Level Front-end developer 👨‍💻- "The Journey is just beggining" 🚀</div>  
+### <div align="center">Hello! I'm Jeyther, a Junior improving every day to be a Hight-Level Front-end developer 👨‍💻- "The Journey is just beginning" 🚀</div>  
   
 
 - 🥇 I have graduated as a Front-End developer at the [CoderHouse](https://www.coderhouse.com.pe/) Institute
