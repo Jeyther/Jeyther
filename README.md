@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4E16AQHqCwVZwx68Kg/profile-displaybackgroundimage-shrink_350_1400/0/1663908345867?e=1680134400&v=beta&t=xfCAvJsZPJiW-yIk9jTHNs5qBHX-f8SEGKFTorewFNI" align="center" style="width: 100%;" />
+<img src="https://github.com/Jeyther/Jeyther/blob/main/header%20developer.jpg" align="center" style="width: 100%;" />
 </div>  
 
 ### <div align="center">Hello! I'm Jeyther, a Junior improving every day to be a Hight-Level Front-end developer 👨‍💻- "The Journey is just beginning" 🚀</div>  
