@@ -6,10 +6,7 @@
   
 
 - 🥇 I have graduated as a Front-End developer at the [CoderHouse](https://www.coderhouse.com.pe/) Institute
-  
-
-- 🌱 I’m currently learning React.JS  
-  
+    
 
 - 🤝🏻If you want to contact whit me, please do not hesitate, i'm searching for coder friends 😂  
   
